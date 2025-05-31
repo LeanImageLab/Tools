@@ -195,7 +195,7 @@
         
        <div class="tools-grid">
     <!-- Image Compressor Card (Now Fully Clickable) -->
-    <a href="image-compressor.html" class="tool-card-link"> <!-- Added wrapper link -->/img-compress.html"
+    <a href="image-compressor.html" class="tool-card-link"> <!-- Added wrapper link -->/Tool/img-compress.html"
         <div class="tool-card">
             <div class="tool-card-img">
                 <i class="fas fa-file-image"></i>
